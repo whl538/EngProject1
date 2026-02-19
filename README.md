@@ -1,2 +1,10 @@
 # EngProject1
-Programming Repository for Engineering Project 1 at the University of York
+Programming Repository for Engineering Project 1 at the University of York - Team 14.
+
+Programmed using a [Placeholder] microcontroller in [Placeholder Language].
+
+Instructions for use:
+[Placeholder instructions]
+
+Version History:
+[Placeholder Version History]
