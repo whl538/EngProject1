@@ -7,4 +7,4 @@ Instructions for use:
 [Placeholder instructions]
 
 Version History:
-[Placeholder Version History]
+V0.0.1 (Luna): Adds Test.ino and creates repo
