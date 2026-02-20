@@ -17,7 +17,7 @@ Arduino:
 - Connect the Arduino to power
 - Install Python 3.14 or higher on your machine and navigate to the project folder
 - Run `pip3 install bleak` in a terminal to install Bleak into your environment
-- Navigate to `Bluetooth Connection (DO NOT UPLOAD TO BOARD)` and run `python3 connect.py` to start the Bluetooth interface
+- Navigate to `Scripts (DO NOT UPLOAD TO BOARD)` and run `python3 connect.py` to start the Bluetooth interface
 - When finished logging data, press CTRL+C on your keyboard to terminate the process. **(IMPORTANT: This must be done before disconnecting the Arduino)**
 - Data will be saved to log.txt in the main folder of the directory.
 
