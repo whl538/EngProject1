@@ -19,5 +19,5 @@ Arduino:
 - Data will be saved to log.txt in the main folder of the directory.
 
 **Version History:**
-V0.0.2 (Luna): Creates Bluetooth interface in Python for the microcontroller, as well as basic functionality on the Arduino to turn on and off an LED and log its state to a file on a remote system.
-V0.0.1 (Luna): Adds Test.ino and creates repo
+- V0.0.2 (Luna): Creates Bluetooth interface in Python for the microcontroller, as well as basic functionality on the Arduino to turn on and off an LED and log its state to a file on a remote system.
+- V0.0.1 (Luna): Adds Test.ino and creates repo
