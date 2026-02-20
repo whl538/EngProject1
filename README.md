@@ -4,9 +4,12 @@ Programming Repository for Engineering Project 1 at the University of York - Tea
 Programmed using an Arduino 33 Sense Rev2 microcontroller in Arduino C++ and Python.
 
 **Dependencies:**
+
 Bluetooth Interface: 
   - Python 3.14 or higher
   - Bleak
+  - Bluetooth Low Energy (BLE) compatible device
+
 Arduino:
   - ArduinoBLE 1.5.0 or higher
 
