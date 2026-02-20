@@ -19,7 +19,7 @@ Arduino:
 - Run `pip3 install bleak` in a terminal to install Bleak into your environment
 - Navigate to `Scripts (DO NOT UPLOAD TO BOARD)` and run `python3 connect.py` to start the Bluetooth interface
 - When finished logging data, press CTRL+C on your keyboard to terminate the process. **(IMPORTANT: This must be done before disconnecting the Arduino)**
-- Data will be saved to log.txt in the main folder of the directory.
+- Data will be saved to `log.txt` and `log.csv` in the `Output` folder of the main directory.
 
 **Version History:**
 - V0.0.2 (Luna): Creates Bluetooth interface in Python for the microcontroller, as well as basic functionality on the Arduino to turn on and off an LED and log its state to a file on a remote system.
